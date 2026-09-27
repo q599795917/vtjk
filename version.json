@@ -1,0 +1,18 @@
+{
+  "rec": {
+    "v": 1,
+    "version": "1.9.14",
+    "notes": "弹窗改为同屏只显示一张，其余排队顺次弹出并提示还有几条待看；消息自动翻译成中文",
+    "sha256": "189bb570bea6b7adb2376e3e99a100465f828013686d69b346ff5abd24c4a214",
+    "size": 32159738,
+    "file": "VintedMonitor_Setup_v1.9.14.exe",
+    "page": "",
+    "mandatory": false,
+    "released_at": 1790537699,
+    "urls": [
+      "https://github.com/q599795917/vtjk/releases/download/v1.9.14/VintedMonitor_Setup_v1.9.14.exe"
+    ]
+  },
+  "sig": "JIDvrg46Nx5kQoyfVxTWwh2utmIwIk2Fo+pEy6IDV35/8/VvDOSQEQK1nfN0blHnib3V3mdxkT4/BUdA+ZodBQ==",
+  "pk": "2yhiBFBb1cCYNuumxxYnO42asuB94OIkBcoOOxn/iCY="
+}
