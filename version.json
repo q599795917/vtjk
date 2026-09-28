@@ -1,18 +1,18 @@
 {
   "rec": {
     "v": 1,
-    "version": "1.9.14",
-    "notes": "弹窗改为同屏只显示一张，其余排队顺次弹出并提示还有几条待看；消息自动翻译成中文",
-    "sha256": "189bb570bea6b7adb2376e3e99a100465f828013686d69b346ff5abd24c4a214",
-    "size": 32159738,
-    "file": "VintedMonitor_Setup_v1.9.14.exe",
+    "version": "1.9.17",
+    "notes": "插件改为跟着 Vinted 自己的刷新走：Vinted 页面会自动更新消息、未读和商品，插件只在旁边接住这些更新，不再自己按秒去请求站点 / 修掉「装了插件账号容易掉线」：取消了插件每 30 秒替每个窗口读一次未读的固定节奏，也去掉了插件自己带登录凭证直接访问站点的行为 / 兜底采集更轻：平时只同步未读与账号状态，在售列表改为每 20 分钟补一次，出单/新消息仍实时弹窗",
+    "sha256": "3302126fc77ce03d625dee90c8f14223a90fae70226240b2ff51cad429d92b02",
+    "size": 32163431,
+    "file": "VintedMonitor_Setup_v1.9.17.exe",
     "page": "",
     "mandatory": false,
-    "released_at": 1790537699,
+    "released_at": 1790635742,
     "urls": [
-      "https://github.com/q599795917/vtjk/releases/download/v1.9.14/VintedMonitor_Setup_v1.9.14.exe"
+      "https://github.com/q599795917/vtjk/releases/download/v1.9.17/VintedMonitor_Setup_v1.9.17.exe"
     ]
   },
-  "sig": "JIDvrg46Nx5kQoyfVxTWwh2utmIwIk2Fo+pEy6IDV35/8/VvDOSQEQK1nfN0blHnib3V3mdxkT4/BUdA+ZodBQ==",
+  "sig": "+eHnYrQpr4bE1o98j3hk4GB3B0Rd+Z5k90NGKh/qX5MTQFogHF93LhCEtOpvUHldjF4dd/+QG9E/pS+LHdMkBg==",
   "pk": "2yhiBFBb1cCYNuumxxYnO42asuB94OIkBcoOOxn/iCY="
 }
