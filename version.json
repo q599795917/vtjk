@@ -1,23 +1,23 @@
 {
   "rec": {
     "v": 1,
-    "version": "1.9.24",
-    "notes": "比特窗口关闭后卡片自动移除，列表只保留还开着的窗口 / 关掉的店铺等窗口重开时自动回来 / 软件不再自己抓取店铺数据，彻底修掉「刷新失败：访问被拒绝」的红色报错（数据一律由插件回传）",
-    "sha256": "354bcc78f03ea5275d713a60d6daee993fd67d1ffe4c200feec52e466b047740",
-    "size": 33066791,
-    "file": "VintedMonitor_Setup_v1.9.24.exe",
+    "version": "1.9.25",
+    "notes": "修复自动回价404（/offers）/ 实时拦截聊天页面买家出价秒级回价 / 回价前随机6-12秒模拟真人 / 轮询15分钟纯兜底 / 事件队列提速50ms",
+    "sha256": "5FF84D43843860D4392BF7C27EB13F8BF19B6A828FEE9FCA22E7060E69F5A421",
+    "size": 32487659,
+    "file": "VintedMonitor_Setup_v1.9.25.exe",
     "page": "",
     "mandatory": false,
-    "released_at": 1791129476,
+    "released_at": 1791135000,
     "urls": [
-      "https://github.com/q599795917/vtjk/releases/download/v1.9.24/VintedMonitor_Setup_v1.9.24.exe"
+      "https://github.com/q599795917/vtjk/releases/download/v1.9.25/VintedMonitor_Setup_v1.9.25.exe"
     ],
-    "ext_version": "1.9.24",
-    "ext_file": "vinted-ext-v1.9.24.zip",
-    "ext_size": 99742,
-    "ext_sha256": "823d543a6d5c3333e38b31b0a24de83f93ab0f11ea8f79be9e236498f2bf5146",
+    "ext_version": "1.9.25",
+    "ext_file": "vinted-ext-v1.9.25.zip",
+    "ext_size": 101227,
+    "ext_sha256": "A1E921908E1DE168B2AC7CD0B558573D6718C64C420A4C052DC83CF3839798D4",
     "ext_urls": [
-      "https://github.com/q599795917/vtjk/releases/download/v1.9.24/vinted-ext-v1.9.24.zip"
+      "https://github.com/q599795917/vtjk/releases/download/v1.9.25/vinted-ext-v1.9.25.zip"
     ]
   },
   "sig": "Eiaonv8PLyezp5E7HmR74p3Lo/BhhZdfUUiDQxF6Pmp0p8Ky7bIz8k+zP0mN6UJTVK0MGAx5ubqcJJcUKcT6Cw==",
