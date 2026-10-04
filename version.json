@@ -1,18 +1,18 @@
 {
   "rec": {
     "v": 1,
-    "version": "1.9.20",
-    "notes": "自动回复/砍价设置改成店铺页一键打开，关键词+回复内容两栏填写更直观 / 修复提醒设置里的旧入口残留。",
-    "sha256": "89fa2e45dc980dcd7c7e120bd029669ebb461526fb76f2e245a974e0f01fb86b",
-    "size": 33044208,
-    "file": "VintedMonitor_Setup_v1.9.20.exe",
+    "version": "1.9.21",
+    "notes": "自动回复/砍价设置窗口：把「还价加价」参数移到主界面，和「自动回价 / 自动同意 / 同意线」放在一起，一眼就能看到和修改（原来藏在高级设置里）。",
+    "sha256": "51125fcbabe03a4efbd5ae9397ee9d73f5558c7a930ee22a897e0b88cd70aa0a",
+    "size": 33044392,
+    "file": "VintedMonitor_Setup_v1.9.21.exe",
     "page": "",
     "mandatory": false,
-    "released_at": 1791078507,
+    "released_at": 1791078999,
     "urls": [
-      "https://github.com/q599795917/vtjk/releases/download/v1.9.20/VintedMonitor_Setup_v1.9.20.exe"
+      "https://github.com/q599795917/vtjk/releases/download/v1.9.21/VintedMonitor_Setup_v1.9.21.exe"
     ]
   },
-  "sig": "1iVFduUhY48Y6Aplmiu08g296buVVgAZOElZ2EibZpfjjm5fgVD3TCqEPv9LvHzI4npUtkGWnFVoFXZJujlCAg==",
+  "sig": "6ZSjHcrlf+bqu3n5yMokxs5e7U0xinY6hP05xPDpyso+WT/XMMON3tu0npjbpqvDe1nF/LvcWVO4F6J0vjMwDA==",
   "pk": "2yhiBFBb1cCYNuumxxYnO42asuB94OIkBcoOOxn/iCY="
 }
