@@ -1,25 +1,25 @@
 {
   "rec": {
     "v": 1,
-    "version": "1.9.22",
-    "notes": "软件检查更新时会同时提示插件是否有新版 / 插件弹窗也会提示更新",
-    "sha256": "e90bf0ac83b903dcefef33fa7f85156334fb2fd84ced905f6349cf6add160eac",
-    "size": 33057858,
-    "file": "VintedMonitor_Setup_v1.9.22.exe",
+    "version": "1.9.23",
+    "notes": "修复插件刚更新后老窗口自动还价、自动回复、自动同意失败的问题，现在会自动就地恢复，不用刷新窗口 / 修复同一窗口重复提交（重复还价、重复发消息）的问题 / 插件与软件版本同步升级到 v1.9.23。",
+    "sha256": "7e9d9b25ed7043627f815c1833e376ad8052e668bfc89613fa4e6d534c8d3b29",
+    "size": 33060811,
+    "file": "VintedMonitor_Setup_v1.9.23.exe",
     "page": "",
     "mandatory": false,
-    "released_at": 1791081223,
+    "released_at": 1791124476,
     "urls": [
-      "https://github.com/q599795917/vtjk/releases/download/v1.9.22/VintedMonitor_Setup_v1.9.22.exe"
+      "https://github.com/q599795917/vtjk/releases/download/v1.9.23/VintedMonitor_Setup_v1.9.23.exe"
     ],
-    "ext_version": "1.9.22",
-    "ext_file": "vinted-ext-v1.9.22.zip",
-    "ext_size": 99209,
-    "ext_sha256": "63b0ad7ae76fc0eb11d9bfd9a2b9a8a57f7dc58d3fb629743ade218abf6db127",
+    "ext_version": "1.9.23",
+    "ext_file": "vinted-ext-v1.9.23.zip",
+    "ext_size": 99743,
+    "ext_sha256": "7babe089afaa5344681a67f15b8cdc3e1609b3e3fa0d7339019f035fa9b1412d",
     "ext_urls": [
-      "https://github.com/q599795917/vtjk/releases/download/v1.9.22/vinted-ext-v1.9.22.zip"
+      "https://github.com/q599795917/vtjk/releases/download/v1.9.23/vinted-ext-v1.9.23.zip"
     ]
   },
-  "sig": "yd2nCX5RDIEvCLn3mptMGRXeFdX1WYkm3S7KDdQYuPGLODP4zsWxrLm+UIki7J/F2+77oP4L4MLjbb0I8oElBQ==",
+  "sig": "qPhhI8AWnR9Z50BP18hx+dNq9PKuFvz2bNdwlNA+fkiAlDFGPe1cUoYgoZAnGkhdMuxXrnrAlL9Bkgyto2sADg==",
   "pk": "2yhiBFBb1cCYNuumxxYnO42asuB94OIkBcoOOxn/iCY="
 }
