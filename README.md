@@ -2,10 +2,10 @@
 
 Vinted 店铺监控软件 —— 安装包分发与在线更新通道。
 
-## 当前版本：v1.9.23
+## 当前版本：v1.9.24
 
-- 软件安装包：[VintedMonitor_Setup_v1.9.23.exe](https://github.com/q599795917/vtjk/releases/download/v1.9.23/VintedMonitor_Setup_v1.9.23.exe)
-- 浏览器插件：[vinted-ext-v1.9.23.zip](https://github.com/q599795917/vtjk/releases/download/v1.9.23/vinted-ext-v1.9.23.zip)
+- 软件安装包：[VintedMonitor_Setup_v1.9.24.exe](https://github.com/q599795917/vtjk/releases/download/v1.9.24/VintedMonitor_Setup_v1.9.24.exe)
+- 浏览器插件：[vinted-ext-v1.9.24.zip](https://github.com/q599795917/vtjk/releases/download/v1.9.24/vinted-ext-v1.9.24.zip)
 
 历史版本见 [Releases](https://github.com/q599795917/vtjk/releases)。
 

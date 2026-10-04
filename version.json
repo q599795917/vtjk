@@ -1,25 +1,25 @@
 {
   "rec": {
     "v": 1,
-    "version": "1.9.23",
-    "notes": "修复插件刚更新后老窗口自动还价、自动回复、自动同意失败的问题，现在会自动就地恢复，不用刷新窗口 / 修复同一窗口重复提交（重复还价、重复发消息）的问题 / 插件与软件版本同步升级到 v1.9.23。",
-    "sha256": "7e9d9b25ed7043627f815c1833e376ad8052e668bfc89613fa4e6d534c8d3b29",
-    "size": 33060811,
-    "file": "VintedMonitor_Setup_v1.9.23.exe",
+    "version": "1.9.24",
+    "notes": "比特窗口关闭后卡片自动移除，列表只保留还开着的窗口 / 关掉的店铺等窗口重开时自动回来 / 软件不再自己抓取店铺数据，彻底修掉「刷新失败：访问被拒绝」的红色报错（数据一律由插件回传）",
+    "sha256": "354bcc78f03ea5275d713a60d6daee993fd67d1ffe4c200feec52e466b047740",
+    "size": 33066791,
+    "file": "VintedMonitor_Setup_v1.9.24.exe",
     "page": "",
     "mandatory": false,
-    "released_at": 1791124476,
+    "released_at": 1791129476,
     "urls": [
-      "https://github.com/q599795917/vtjk/releases/download/v1.9.23/VintedMonitor_Setup_v1.9.23.exe"
+      "https://github.com/q599795917/vtjk/releases/download/v1.9.24/VintedMonitor_Setup_v1.9.24.exe"
     ],
-    "ext_version": "1.9.23",
-    "ext_file": "vinted-ext-v1.9.23.zip",
-    "ext_size": 99743,
-    "ext_sha256": "7babe089afaa5344681a67f15b8cdc3e1609b3e3fa0d7339019f035fa9b1412d",
+    "ext_version": "1.9.24",
+    "ext_file": "vinted-ext-v1.9.24.zip",
+    "ext_size": 99742,
+    "ext_sha256": "823d543a6d5c3333e38b31b0a24de83f93ab0f11ea8f79be9e236498f2bf5146",
     "ext_urls": [
-      "https://github.com/q599795917/vtjk/releases/download/v1.9.23/vinted-ext-v1.9.23.zip"
+      "https://github.com/q599795917/vtjk/releases/download/v1.9.24/vinted-ext-v1.9.24.zip"
     ]
   },
-  "sig": "qPhhI8AWnR9Z50BP18hx+dNq9PKuFvz2bNdwlNA+fkiAlDFGPe1cUoYgoZAnGkhdMuxXrnrAlL9Bkgyto2sADg==",
+  "sig": "Eiaonv8PLyezp5E7HmR74p3Lo/BhhZdfUUiDQxF6Pmp0p8Ky7bIz8k+zP0mN6UJTVK0MGAx5ubqcJJcUKcT6Cw==",
   "pk": "2yhiBFBb1cCYNuumxxYnO42asuB94OIkBcoOOxn/iCY="
 }
