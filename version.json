@@ -1,18 +1,25 @@
 {
   "rec": {
     "v": 1,
-    "version": "1.9.21",
-    "notes": "自动回复/砍价设置窗口：把「还价加价」参数移到主界面，和「自动回价 / 自动同意 / 同意线」放在一起，一眼就能看到和修改（原来藏在高级设置里）。",
-    "sha256": "51125fcbabe03a4efbd5ae9397ee9d73f5558c7a930ee22a897e0b88cd70aa0a",
-    "size": 33044392,
-    "file": "VintedMonitor_Setup_v1.9.21.exe",
+    "version": "1.9.22",
+    "notes": "软件检查更新时会同时提示插件是否有新版 / 插件弹窗也会提示更新",
+    "sha256": "e90bf0ac83b903dcefef33fa7f85156334fb2fd84ced905f6349cf6add160eac",
+    "size": 33057858,
+    "file": "VintedMonitor_Setup_v1.9.22.exe",
     "page": "",
     "mandatory": false,
-    "released_at": 1791078999,
+    "released_at": 1791081223,
     "urls": [
-      "https://github.com/q599795917/vtjk/releases/download/v1.9.21/VintedMonitor_Setup_v1.9.21.exe"
+      "https://github.com/q599795917/vtjk/releases/download/v1.9.22/VintedMonitor_Setup_v1.9.22.exe"
+    ],
+    "ext_version": "1.9.22",
+    "ext_file": "vinted-ext-v1.9.22.zip",
+    "ext_size": 99209,
+    "ext_sha256": "63b0ad7ae76fc0eb11d9bfd9a2b9a8a57f7dc58d3fb629743ade218abf6db127",
+    "ext_urls": [
+      "https://github.com/q599795917/vtjk/releases/download/v1.9.22/vinted-ext-v1.9.22.zip"
     ]
   },
-  "sig": "6ZSjHcrlf+bqu3n5yMokxs5e7U0xinY6hP05xPDpyso+WT/XMMON3tu0npjbpqvDe1nF/LvcWVO4F6J0vjMwDA==",
+  "sig": "yd2nCX5RDIEvCLn3mptMGRXeFdX1WYkm3S7KDdQYuPGLODP4zsWxrLm+UIki7J/F2+77oP4L4MLjbb0I8oElBQ==",
   "pk": "2yhiBFBb1cCYNuumxxYnO42asuB94OIkBcoOOxn/iCY="
 }
