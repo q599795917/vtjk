@@ -2,7 +2,7 @@
   "rec": {
     "v": 1,
     "version": "1.9.25",
-    "notes": "反检测加固：去掉页面痕迹标记/控制台日志/postMessage特征 / 回价延迟加大到30-120秒随机模拟真人 / 修复自动回价404（/offers）/ 实时拦截聊天页面买家出价",
+    "notes": "多号并发修复：postExe超时10秒+失败重试队列 / 对话详情页实时检测新消息推软件 / 反检测加固 / 回价延迟30-120秒",
     "sha256": "5FF84D43843860D4392BF7C27EB13F8BF19B6A828FEE9FCA22E7060E69F5A421",
     "size": 32487659,
     "file": "VintedMonitor_Setup_v1.9.25.exe",
@@ -14,8 +14,8 @@
     ],
     "ext_version": "1.9.25",
     "ext_file": "vinted-ext-v1.9.25.zip",
-    "ext_size": 100614,
-    "ext_sha256": "b53ea357bf7a8b37af28732f0390e67b224a89fd6b4ecc556ec0516d225c9380",
+    "ext_size": 100918,
+    "ext_sha256": "c0f01a804892d77727615a04da4b05915e8835fe58a86f2c253903f0d87ad9ba",
     "ext_urls": [
       "https://github.com/q599795917/vtjk/releases/download/v1.9.25/vinted-ext-v1.9.25.zip"
     ]
