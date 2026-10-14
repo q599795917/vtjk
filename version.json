@@ -2,7 +2,7 @@
   "rec": {
     "v": 1,
     "version": "1.9.25",
-    "notes": "多号并发修复：postExe超时10秒+失败重试队列 / 对话详情页实时检测新消息推软件 / 反检测加固 / 回价延迟30-120秒",
+    "notes": "WebSocket拦截：Vinted聊天页WS实时推送新消息现在能收到了 / postExe超时10秒+失败重试队列 / 反检测加固 / 回价延迟30-120秒",
     "sha256": "5FF84D43843860D4392BF7C27EB13F8BF19B6A828FEE9FCA22E7060E69F5A421",
     "size": 32487659,
     "file": "VintedMonitor_Setup_v1.9.25.exe",
@@ -14,8 +14,8 @@
     ],
     "ext_version": "1.9.25",
     "ext_file": "vinted-ext-v1.9.25.zip",
-    "ext_size": 100918,
-    "ext_sha256": "c0f01a804892d77727615a04da4b05915e8835fe58a86f2c253903f0d87ad9ba",
+    "ext_size": 103182,
+    "ext_sha256": "4fda9d06e9628cc771133fd03b43cd1de31e2caa4067d250326969385ef8f46e",
     "ext_urls": [
       "https://github.com/q599795917/vtjk/releases/download/v1.9.25/vinted-ext-v1.9.25.zip"
     ]
